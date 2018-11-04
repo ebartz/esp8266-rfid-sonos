@@ -32,5 +32,31 @@ To make it easier to read, I decided to split up the wiring in 2 parts.
 ![Buttons](/img/fritzing-2.png?raw=true "Buttons")
 
 ## Build Steps
+### Prepare the Case
+To prepare the case you have to add 3 holes which will later be used to mount the buttons.
+
+![Buttons](/img/002.jpg?raw=true "Buttons")
+![Buttons](/img/003.jpg?raw=true "Buttons")
+![Buttons](/img/004.jpg?raw=true "Buttons")
+![Buttons](/img/005.jpg?raw=true "Buttons")
+
+### Soldering
+I prepared 9 wires which are about 7cm long. I have soldered them to the RC522 board at first.
+
+![Soldering](/img/006.jpg?raw=true "Soldering")
+
+Afterwards I soldered the wires to the buttons and glued the RC522 board to the bottom of the case using hot glue.
+
+![Soldering](/img/006.jpg?raw=true "Soldering")
+![Soldering](/img/007.jpg?raw=true "Soldering")
+![Soldering](/img/008.jpg?raw=true "Soldering")
+
+And then soldered it to the Wemos board.
+
+Finnaly slice a hole to the botton where the power cable fits in and glue everything together.
+
+![Soldering](/img/009.jpg?raw=true "Soldering")
+![Soldering](/img/010.jpg?raw=true "Soldering")
+
 
 ## Node Red
