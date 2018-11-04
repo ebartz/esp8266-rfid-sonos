@@ -8,7 +8,7 @@ The Tiny box is connected via WIFI. It then connects to an MQTT Server and sends
 # DIY?
 Wanna build it yourself? Just go ahead, if I can do it, you probably can do it much better :)
 
-## BOM
+## Part List
 
 Part | QTY | Info | Link | Price |
 | -- | :-: | ---- | :--: | ----: |
@@ -18,8 +18,12 @@ Part | QTY | Info | Link | Price |
 | Switch Yellow | 1 | TC-R13-24A1-05 GN | [Conrad](https://www.conrad.de/de/tru-components-tc-r13-24a1-05-gn-drucktaster-250-vac-15-a-1-x-ausein-tastend-1-st-1587871.html) | 1,32€ |
 | Power Supply | 1 | Micro USB, 5V 1A | [Conrad](https://www.conrad.de/de/usb-ladegeraet-basetech-ppc-5mu-ppc-5mu-steckdose-ausgangsstrom-max-1000-ma-1-x-micro-usb-469382.html) | 4,99€ |
 | RFID Reader | 1 | RC522 | [Amazon](https://www.amazon.de/gp/product/B076HTH56Q/) | 6,99€ |
-| ESP Board   | 1 | Wemos D1 Mini | [Amazon](https://www.amazon.de/AZDelivery-D1-Mini-ESP8266-12E-kompatibel/dp/B01N9RXGHY/) | 6,99€ |
+| ESP Board   | 1 | Wemos D1 Mini | [Amazon](https://www.amazon.de/AZDelivery-D1-Mini-ESP8266-12E-kompatibel/dp/B01N9RXGHY/) | 5,99€ |
+
+You may find those parts cheaper on Aliexpress or ebay.
 
 ## Wiring
 
-## Steps
+## Build Steps
+
+## Node Red
