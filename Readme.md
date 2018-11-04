@@ -23,6 +23,13 @@ Part | QTY | Info | Link | Price |
 You may find those parts cheaper on Aliexpress or ebay.
 
 ## Wiring
+To make it easier to read, I decided to split up the wiring in 2 parts.
+
+### RC522 Board
+![RC522 Wiring](/img/fritzing-1.png?raw=true "RC522 Wiring")
+
+### Buttons
+![Buttons](/img/fritzing-2.png?raw=true "Buttons")
 
 ## Build Steps
 
