@@ -3,6 +3,8 @@ This box is made to control Sonos Speakers. My children are not yet able to cont
 
 The Tiny box is connected via WIFI. It then connects to an MQTT Server and sends the Card IDs and an event if a button has been pressed to the server. Afterwards I pick up those events using node-red which then plays the selected audio on the sonos speaker.
 
+Here you can find a demo video:
+
 [![VIDEO](https://img.youtube.com/vi/QziWnsG4_Hs/0.jpg)](https://www.youtube.com/watch?v=QziWnsG4_Hs)
 
 # DIY?
@@ -32,6 +34,17 @@ To make it easier to read, I decided to split up the wiring in 2 parts.
 ![Buttons](/img/fritzing-2.png?raw=true "Buttons")
 
 ## Build Steps
+
+### Flashing the Code
+To make your ESP ready, you will have to flash the Code to your ESP Board. This can be done using the Arduino IDE.
+
+For the first time, you will have to flash the code using USB. When everything is flashed and the ESP is connected to your WiFi, you can update the code over the network so that no USB connection should be needed after the first setup.
+
+Before you can compile the code, you will have to update wifi and MQTT settings.
+
+Also you will have to install some Dependencies: (TBD)
+
+
 ### Prepare the Case
 To prepare the case you have to add 3 holes which will later be used to mount the buttons.
 
