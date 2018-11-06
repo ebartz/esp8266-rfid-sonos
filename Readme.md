@@ -44,7 +44,6 @@ Before you can compile the code, you will have to update wifi and MQTT settings.
 
 Also you will have to install some Dependencies: (TBD)
 
-
 ### Prepare the Case
 To prepare the case you have to add 3 holes which will later be used to mount the buttons.
 
@@ -70,7 +69,6 @@ Finnaly slice a hole to the botton where the power cable fits in and glue everyt
 
 ![Soldering](/img/009.jpg?raw=true "Soldering")
 ![Soldering](/img/010.jpg?raw=true "Soldering")
-
 
 ## Node Red
 You Will need MQTT, node-red-contrib-better-sonos and node-red-contrib-sonos.
